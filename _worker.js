@@ -23,13 +23,13 @@ const directDomains = [
     { domain: "freeyx.cloudflare88.eu.org" },
     { domain: "bestcf.top" },
     { domain: "cdn.2020111.xyz" },
-    { domain: "cf.0sm.com" },
+    { domain: "cf.cloudflare.182682.xyz" },
     { domain: "cf.090227.xyz" },
-    { domain: "cf.zhetengsha.eu.org" },
-    { domain: "cfip.1323123.xyz" },
-    { domain: "cloudflare-ip.mofashi.ltd" },
+    { domain: "www.shopify.com" },
+    { domain: "store.ubi.com" },
+    { domain: "staticdelivery.nexusmods.com" },
     { domain: "cf.877771.xyz" },
-    { domain: "xn--b6gac.eu.org" }
+    { domain: "saas.sin.fan" }
 ];
 
 // 默认优选IP来源URL
